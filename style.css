@@ -1,0 +1,12 @@
+a {
+    width: 30%;
+    font-size: 18px;
+    background-color: salmon;
+    border-radius: 100px;
+    border-color: blue;
+    border-right-style: dashed;
+    border-top-style: dashed;
+    border-bottom-style: double;
+    border-left-style: double;
+    border-width: 5px;
+}
